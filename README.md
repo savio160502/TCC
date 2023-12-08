@@ -44,6 +44,8 @@ Os resultados são apresentados em três seções distintas:
 2. **NASDAQ:** Comparação com as 14 principais ações do NASDAQ por capitalização de mercado.
 3. **Ibovespa:** Replicação da estratégia no conjunto de ações do Ibovespa.
 
+![Resultado no setor Bancário](./caminho/para/sua/imagem.jpg)
+
 **Principais Indicadores de Desempenho:**
 - Setor Bancário: Retorno acumulado de 919.17% (vs. 471.74% benchmark).
 - Setor Saúde: Retorno acumulado de 797.16% (vs. 266.96% benchmark).
