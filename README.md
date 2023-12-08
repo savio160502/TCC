@@ -44,7 +44,36 @@ Os resultados são apresentados em três seções distintas:
 2. **NASDAQ:** Comparação com as 14 principais ações do NASDAQ por capitalização de mercado.
 3. **Ibovespa:** Replicação da estratégia no conjunto de ações do Ibovespa.
 
-![Resultado no setor Bancário](./caminho/para/sua/imagem.jpg)
+### Setor Bancário
+![Gráfico da estratégia no setor bancário](Rascunho/estrategia_banco1.png)
+
+![Resultado no setor bancário](Rascunho/estrategia_banco2.png)
+
+### Setor Saúde
+![Gráfico da estratégia no setor saúde](Rascunho/estrategia_saude1.png)
+
+![Resultado no setor saúde](Rascunho/estrategia_saude2.png)
+
+### Setor Varejo
+![Gráfico da estratégia no setor varejo](Rascunho/varejo_otim1.png)
+
+![Resultado no setor varejo](Rascunho/varejo_otim2.png)
+
+### Setor Elétrico
+![Gráfico da estratégia no setor elétrico](Rascunho/eletrica_otim1.png)
+
+![Resultado no setor elétrico](Rascunho/eletrica_otim2.png)
+
+### NASDAQ
+![Gráfico da estratégia contra a NASDAQ](Rascunho/nasdaq1.png)
+
+![Resultado da estratégia contra a NASDAQ](Rascunho/nasdaq2.png)
+
+### Ibovespa
+![Gráfico da estratégia contra o Ibovespa](Rascunho/ibovespa1.png)
+
+![Resultado da estratégia contra o Ibovespa](Rascunho/ibovespa2.png)
+
 
 **Principais Indicadores de Desempenho:**
 - Setor Bancário: Retorno acumulado de 919.17% (vs. 471.74% benchmark).
