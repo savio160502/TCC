@@ -36,6 +36,29 @@ Esses indicadores/múltiplos proporcionam uma visão abrangente da saúde financ
 A abordagem quantitativa oferece a capacidade de comparar e avaliar o desempenho atual de uma empresa em relação aos trimestres anteriores. Essa metodologia fundamenta-se em métodos específicos, como F-score e G-score, que são utilizados para realizar uma análise intra-empresa.
 
 Em termos simples, a análise quantitativa permite uma avaliação aprofundada da performance de uma empresa ao longo do tempo, destacando tendências, variações e mudanças significativas em suas métricas financeiras. O uso desses métodos específicos, como F-score e G-score, fornece uma abordagem sistemática e objetiva para avaliar a saúde financeira de uma empresa em comparação consigo mesma em períodos anteriores. Essa análise intra-empresa é valiosa para identificar padrões consistentes e entender como a empresa evolui ao longo do tempo
+
+### Análise Quantamental
+
+A estratégia quantamental é uma abordagem inovadora que incorpora técnicas de
+análise fundamentalistas e quantitativas. Nesse sentido, o Score-Quantamental é formado
+pela combinação dos resultados do Score-Fundamentalista e do Score-Quantitativo. Esse
+método proporciona uma avaliação abrangente, integrando aspectos fundamentalistas e
+quantitativos na análise de ativos. Isso proporciona uma pontuação que avalia o desempenho da empresa em relação aos
+seus pares e também em comparação com os trimestres anteriores. As empresas com
+as pontuações mais elevadas são aquelas que demonstraram um desempenho superior
+nos últimos trimestres e estão relativamente subvalorizadas em comparação com seus
+concorrentes.
+
+A abordagem adotada inicia-se com uma análise minuciosa de setores individuais, na qual
+se busca identificar as empresas destacadas em cada segmento. Esse enfoque possibilita
+assegurar que essas empresas líderes apresentem uma base sólida do ponto de vista
+fundamentalista em comparação com seus concorrentes e demonstrem um desempenho
+consistente nos últimos trimestres. Após a análise setorial, a perspectiva é ampliada para
+incluir ações de todo o Ibovespa, aplicando-se essa mesma metodologia seletiva. Dessa
+forma, o processo abrange desde a identificação das melhores empresas em cada setor até
+a análise mais abrangente do mercado no contexto do Ibovespa
+
+
 ## Análise dos Resultados
 
 Os resultados são apresentados em três seções distintas:
